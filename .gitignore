@@ -1,0 +1,14 @@
+# Ignore python virtual environment
+venv/
+.venv/
+
+# Ignore local Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Ignore downloaded data to keep repository light
+data/raw/*.csv
+
+# OS generated files
+.DS_Store
+Thumbs.db
