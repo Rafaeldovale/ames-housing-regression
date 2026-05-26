@@ -86,4 +86,4 @@ deployed_features = loaded_artifact['features']
 # Run instant inference on fresh real estate arrays
 # predictions = deployed_model.predict(new_house_payload[deployed_features])
 
-Developed by Rafael Bezerra do Vale as a milestone portfolio component in Advanced Applied Machine Learning and Architectural AI Engineering.
+Developed by **Rafael Bezerra do Vale** Data Scientist | Machine Learning Specialist
